@@ -1,0 +1,12 @@
+Randomized YouTube Thumbnail Generator
+
+Hello!
+
+I am looking to design a simple web app that generates YouTube thumbnails with a randomized "watermark" type PNG placed over the users image they upload.
+
+The basic flow of the website:
+1. User uploads their Youtube Thumbnail (must be certain ratio)
+2. The website takes thumbnail and adds a randomized (roughly 25+ options) transparent PNG and puts it over the image thumbnail
+3. The website presents the new thumbnail with the randomized image placed over it with a download image button.
+
+Please let me know if you have any questions!
